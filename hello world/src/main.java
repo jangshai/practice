@@ -7,6 +7,7 @@ public class main {
 		System.out.println("I LOVE YOU");
 		System.out.println("BBBB");
 		System.out.println("bb");
+		System.out.println("aa");
 	}
 
 }
